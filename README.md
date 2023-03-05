@@ -9,8 +9,9 @@ Then, your homescreen will be well-organized and you will also know which day, w
 This will be done everyday automatically just before 0 am.
 All you have to do to install this tool is to follow the instructions below :
   - Download the archive file .tar.gz
-  - Decompress it 
-  - Move in the decompressed folder
+  - Open a terminal in the folder where you've downloaded the archive
+  - Decompress the archive : tar -xzf Manage_desktop_files_JSLABS.tar.gz
+  - Move in the decompressed folder : cd Manage_desktop_files_JSLABS
   - Then in the terminal just type make in this folder
   - Well done ! You've installed it on your computer
 
@@ -24,7 +25,8 @@ Ensuite, votre écran d'accueil sera bien organisé et vous saurez également qu
 Cela se fera tous les jours automatiquement juste avant 0h00.
 Tout ce que vous avez à faire pour installer cet outil est de suivre les instructions ci-dessous :
   - Télécharger le fichier d'archive .tar.gz
-  - Le décompresser
-  - Se déplacer dans le dossier décompressé
+  - Ouvrir un terminal dans le dossier où vous avez téléchargé l'archive
+  - Décompresser l'archive : tar -xzf Manage_desktop_files_JSLABS.tar.gz
+  - Se déplacer dans le dossier décompressé : cd Manage_desktop_files_JSLABS
   - Puis dans le terminal tapez simplement make dans ce dossier
   - Bien joué ! Vous l'avez installé sur votre ordinateur
